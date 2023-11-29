@@ -1,14 +1,14 @@
 <h1 align="center">Hola 👋, soy Xabi</h1>
 <h3 align="center">¡Bienvenido a mi perfil de GitHub! 💻</h3>
 
-<h3 align="center"> ![08acd28d0dc72aacd22246997cd7b3a3](https://github.com/xabijg/xabijg/assets/73133206/489daecc-c83a-4f7c-970f-ac47e003861b) </h3>
+
 
 ## Sobre mí
 
 - 🌱🦍🐋 Biología de conservación tanto marina como terrestre.
 - 🚗 Mecánica de vehículos y proyectos relacionados con la automoción/aeronaves.
 - 🏀 Data Analytics, especializado en temas financieros y de deportes además de las dos secciones anteriores.
-
+![08acd28d0dc72aacd22246997cd7b3a3](https://github.com/xabijg/xabijg/assets/73133206/489daecc-c83a-4f7c-970f-ac47e003861b) 
 - 🌱 Actualmente estoy aprendiendo a dominar superpoderes 🕷️🕸️ en MongoDB, PowerBi y coches eléctricos.
 - 💬 Pregúntame sobre las hazañas heroicas que he vivido en el mundo del desarrollo.
 - 📫 Puedes enviarme señales de humo o paloma mensajera a xabierjg@hotmail.com.
