@@ -10,7 +10,6 @@
 - 🏀 Data Analytics, especializado en temas financieros y de deportes además de las dos secciones anteriores.
 
 - 🌱 Actualmente estoy aprendiendo a dominar superpoderes 🕷️🕸️ en MongoDB, PowerBi y coches eléctricos.
-- 💬 Pregúntame sobre las hazañas heroicas que he vivido en el mundo del desarrollo.
 - 📫 Puedes enviarme señales de humo o paloma mensajera a xabierjg@hotmail.com.
 
 ## Tecnologías y Herramientas 🛠️
