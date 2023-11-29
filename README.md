@@ -1,6 +1,5 @@
 <h1 align="center">Hola 👋, soy Xabi</h1>
 <h3 align="center">¡Bienvenido a mi perfil de GitHub! 💻</h3>
-![](https://github.com/xabijg/xabijg/blob/main/giphy.web)
 
 
 ## Sobre mí
