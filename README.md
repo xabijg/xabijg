@@ -42,7 +42,7 @@
 
 📫🌐 ¡Conéctate conmigo en las redes sociales!
 
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/xabierj/)
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />]([https://www.linkedin.com/in/xabierj/](https://www.linkedin.com/in/xabier-jimenez-gomez/))
 
 
 ¡Gracias por visitar mi perfil!#
