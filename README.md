@@ -10,7 +10,7 @@
 - 🏀 Data Analytics, especializado en temas financieros y de deportes además de las dos secciones anteriores.
 
 - 🌱 Actualmente estoy aprendiendo sobre MongoDB, PowerBi y coches eléctricos.
-- 📫 Puedes enviarme señales de humo o paloma mensajera a xabierjg@hotmail.com.
+- 📫 Puedes contactarme vía email a xabierjg@hotmail.com.
 
 ## Tecnologías y Herramientas 🛠️
 
