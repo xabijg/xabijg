@@ -5,11 +5,10 @@
 
 ## Sobre mí
 
-- 🌱🦍🐋 Biología de conservación tanto marina como terrestre.
-- 🚗 Mecánica de vehículos y proyectos relacionados con la automoción/aeronaves.
-- 🏀 Data Analytics, especializado en temas financieros y de deportes además de las dos secciones anteriores.
+- 🦍🐋 Proyectos de biodiversidad.
+- 🚗 Vehículos y proyectos relacionados con la automoción.
+- 🏀 Data Analytics.
 
-- 🌱 Actualmente estoy aprendiendo sobre MongoDB, PowerBi y coches eléctricos.
 - 📫 Puedes contactarme vía email a xabierjg@hotmail.com.
 
 ## Tecnologías y Herramientas 🛠️
