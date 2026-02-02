@@ -1,11 +1,7 @@
 
 
 
-## Proyectos
 
-- Proyectos de biodiversidad.
-- Vehículos y proyectos relacionados con la automoción.
-- Data Analytics.
 
 - Puedes contactarme vía email a xabierjg@hotmail.com.
 
