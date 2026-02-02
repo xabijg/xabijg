@@ -1,6 +1,5 @@
 
 
-![08acd28d0dc72aacd22246997cd7b3a3](https://github.com/xabijg/xabijg/assets/73133206/489daecc-c83a-4f7c-970f-ac47e003861b) 
 
 ## Proyectos
 
